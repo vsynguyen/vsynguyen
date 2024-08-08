@@ -6,8 +6,7 @@ About me:
 - 🌱 I am currently learning and growing
 - 👯 I am looking for collaboration across all platforms
 - 🤔 I am looking for knowledge support from the Data community
-- 💬 How to contact me: https://linkedin.com/in/vsynguyen98/
-- 😄 My Facebook: https://web.facebook.com/syy.nv/
+
 
 ## 🌐Socials                                                                                    
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/syy.nv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/vsynguyen98/) 
