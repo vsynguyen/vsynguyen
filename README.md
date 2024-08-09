@@ -8,7 +8,7 @@
 - 🌱 I am currently learning and growing in the Data industry
 - 👯 I am looking for collaboration on all platforms
 - ✉️ &nbsp;You can shoot me an email at syngv.work@gmail.com I'll try to respond as soon as I can.
-- 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1FK9gha0chm_V6FtI8IQ7tVW4NtuPcgKC/view) for more details about me. I'm open to feedback and suggestions! for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1_AgMQDRnJpaj_phrnagR7iEotqir14od/view) for more details about me. I'm open to feedback and suggestions! for more details about me. I'm open to feedback and suggestions!
 ## 📫 Connect with me:                                                                                 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/syy.nv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/vsynguyen98/) 
 
