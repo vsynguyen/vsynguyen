@@ -7,6 +7,8 @@
 ## <div id="header" align="left"> <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="40"/> About me: 
 - 🌱 I am currently learning and growing in the Data industry
 - 👯 I am looking for collaboration on all platforms
+- ✉️ &nbsp;You can shoot me an email at syngv.work@gmail.com I'll try to respond as soon as I can.
+- 📄 &nbsp;Please have a look at my [Resume]() for more details about me. I'm open to feedback and suggestions! for more details about me. I'm open to feedback and suggestions!
 ## 📫 How to reach me:                                                                                 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/syy.nv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/vsynguyen98/) 
 
